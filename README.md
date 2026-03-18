@@ -22,15 +22,4 @@ Sou um desenvolvedor focado em **Python**, com experiência na criação de APIs
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 📌 Projetos em Destaque
-
-### [api-animes](https://github.com/joaobrc/api-animes)
-Uma API desenvolvida para gerenciar bibliotecas de animes, integrando-se com a API do Anichart.
-
-### [fastapi-zero](https://github.com/joaobrc/fastapi-zero)
-Estudos e implementações focadas no framework FastAPI para criação de aplicações performáticas.
-
-### [projeto-acoes](https://github.com/joaobrc/projeto-acoes)
-Ferramenta em Python voltada para análise ou monitoramento de ações no mercado financeiro.
-
 ---
