@@ -9,11 +9,6 @@ Sou um desenvolvedor focado em **Python**, com experiência na criação de APIs
 - 📊 Interesse em projetos envolvendo mercado financeiro e consumo de APIs externas (como Anichart).
 - 🌱 Constantemente aprimorando minhas habilidades em arquitetura de software e automação.
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaobrc&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobrc&layout=compact&langs_count=7&theme=radical" />
-</div>
-
 
 ## 🛠️ Tecnologias e Ferramentas
 
